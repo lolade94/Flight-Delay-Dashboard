@@ -1,0 +1,53 @@
+{
+  "author": "omolola akinleye",
+  "version": "0.0.1",
+  "description": "description text goes here",
+  "repository": "repository path",
+  "license": "MIT",
+  "scripts": {
+    "dev": "lite-server"
+  },
+  "dependencies": {
+    "angular": "~1.5.8",
+    "angular-chart.js": "^1.0.3",
+    "angular-ui-bootstrap": "~2.1.3",
+    "angular-ui-router": "~0.3.1",
+    "bootstrap": "~3.3.5",
+    "chart.js": "^2.0.0",
+    "d3": "4.2.2",
+    "jquery": "^3.1.0",
+    "lodash": "~2.4.1",
+    "slid3r": "0.0.10"
+  },
+  "devDependencies": {
+    "add-stream": "^1.0.0",
+    "browser-sync": "^2.16.0",
+    "cross-spawn-async": "^2.2.4",
+    "del": "^2.2.2",
+    "express": "^4.16.3",
+    "gulp": "^3.9.1",
+    "gulp-angular-filesort": "^1.1.1",
+    "gulp-browserify": "^0.5.1",
+    "gulp-bytediff": "^1.0.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-inject": "^1.2.0",
+    "gulp-jshint": "^2.0.1",
+    "gulp-load-plugins": "^1.3.0",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-minify-html": "^1.0.6",
+    "gulp-ng-annotate": "^2.0.0",
+    "gulp-ng-html2js": "^0.2.2",
+    "gulp-replace": "^0.5.4",
+    "gulp-uglify": "^2.0.0",
+    "gulp-useref": "^3.1.2",
+    "gulp-util": "^3.0.7",
+    "gulp-zip": "^3.2.0",
+    "jshint": "^2.9.3",
+    "lite-server": "^2.2.2",
+    "radial-progress-chart": "0.0.4",
+    "run-sequence": "^1.2.2",
+    "stream-series": "^0.1.1",
+    "topojson": "^3.0.2",
+    "wiredep": "^4.0.0"
+  }
+}

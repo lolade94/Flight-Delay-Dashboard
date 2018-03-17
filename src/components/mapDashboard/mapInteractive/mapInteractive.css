@@ -1,0 +1,43 @@
+map-interactive svg .slider text {
+  font-size: 12px;
+  font-family: "Arial";
+  fill: #fff;
+}
+
+map-interactive div.tooltip {
+  position: absolute;
+  text-align: center;
+  height: 40px;
+  padding: 5px;
+  font: 12px "Arial";
+  background: #000;
+  border: 0px;
+  border-radius: 4px;
+  pointer-events: none;
+  color: #fff;
+}
+
+#map-interactive .component-title {
+  padding-bottom: 10px;
+  padding-left: 45px;
+  color: #fff;
+  font-family: "Arial";
+  margin-top: 35px;
+}
+
+.target-pulse {
+  animation: target-pulse 1s ease infinite
+}
+
+@keyframes target-pulse {
+  0% {
+    transform: scale(0.5);
+    transform-origin: center center;
+    opacity: 0.8
+  }
+  100% {
+    transform: scale(1.5);
+    transform-origin: center center;
+    opacity: 0
+  }
+}

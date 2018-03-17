@@ -1,0 +1,132 @@
+bar-graph svg text{
+   fill: #fff;
+   font-family: "Arial";
+   font-size: "12px";
+}
+
+bar-graph svg line{
+  stroke:#fff;
+}
+
+#bar-graph .component-title{
+  padding-bottom:10px;
+  padding-left: 20px;
+  font-family: 'Arial';
+  margin-top:35px;
+}
+
+ .grid line {
+  stroke: #525a61;
+  stroke-opacity: 0.3;
+  shape-rendering: crispEdges;
+  stroke-width: .61px;
+}
+
+.axis .domain {
+  display: none;
+}
+
+.axis .tick>line{
+   display: none;
+}
+
+ .domain{
+  display: none;
+}
+
+#bar-graph {
+  color: #fff;
+}
+
+#axisBottom, #leftAxis{
+  font-size: 14px;
+}
+
+ #bar-graph #status-group {
+  width: 70%;
+  margin-left: 50px;
+}
+
+#bar-graph input[type="radio"] {
+  display:none;
+ }
+
+
+
+/*remove bootstrap padding */
+#bar-graph .radio-inline{
+  padding-left: 0px;
+}
+
+#bar-graph .radio-inline{
+    font-size: 14px;
+    padding: 2px;
+    width: 120px;
+    text-align: center;
+    border-radius: 20px;
+}
+
+#bar-graph .all{
+  border: 1.1px solid #c2c2c2;
+
+}
+
+#bar-graph .all:hover{
+  background:#fff;
+    color: #20242A;
+}
+
+#bar-graph .all.active{
+  background: #fff;
+  color: #20242A;
+}
+
+#bar-graph .system{
+  border: 1.1px solid #00BFB3;
+
+}
+
+#bar-graph .system:hover{
+  background: #00BFB3;
+}
+
+#bar-graph .system.active{
+  background: #00BFB3;
+}
+
+#bar-graph .weather{
+  border:1.1px solid #BBDBD1;
+}
+
+#bar-graph .weather:hover{
+  background: #BBDBD1;
+}
+
+#bar-graph .weather.active{
+  background: #BBDBD1;
+}
+
+#bar-graph .carrier{
+  border:1.1px solid #7E78D2;
+}
+
+#bar-graph .carrier:hover{
+  background: #7E78D2;
+}
+
+#bar-graph .carrier.active{
+  background: #7E78D2;
+}
+
+div.tooltip {
+    position: absolute;
+    text-align: center;
+    height: 40px;
+    padding: 5px;
+    font: 12px tstarregular;
+    background: #000;
+    border: 0px;
+    border-radius: 4px;
+    pointer-events: none;
+    color:#fff;
+}

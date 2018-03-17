@@ -1,0 +1,40 @@
+
+<div id="bar-graph" class="row">
+  <h5 id="bar-title" class="component-title animated slideInRight" > {{vm.delayTitle}} in Minutes</h5>
+  <div id="status-group" >
+
+    <!--All Delays-->
+    <label class="radio-inline all" ng-class="{active: vm.isSet(1)}" ng-click="vm.setTab(1)">
+      <input type="radio" name="delay" id="delay" value="null"  checked="checked"
+             ng-model="delay" ng-click= "vm.selectDelay($event, delay)" >
+        All
+      </label>
+        <!--All Delays-->
+
+      <!--Air Carrier Delays -->
+      <label class="radio-inline carrier" ng-class="{active: vm.isSet(2)}" ng-click="vm.setTab(2)">
+      <input type="radio" name="delay" id="delay" value="Air Carrier Delay"
+             ng-model="delay" ng-click= "vm.selectDelay($event, delay)">
+        Air Carrier Delay
+      </label>
+        <!--Air Carrier Delays -->
+
+    <!--Weather Delay -->
+    <label class="radio-inline weather" ng-class="{active: vm.isSet(3)}" ng-click="vm.setTab(3)">
+      <input type="radio" name="delay" id="delay" value="Extreme Weather Delay"
+             ng-model="delay" ng-click= "vm.selectDelay($event, delay)">
+        Weather Delay
+    </label>
+      <!--Weather Delay -->
+
+    <!--System Delay-->
+    <label class="radio-inline system" ng-class="{active: vm.isSet(4)}" ng-click="vm.setTab(4)">
+      <input type="radio" name="delay" id="delay" value="Aviation System Delay"
+             ng-model="delay" ng-click= "vm.selectDelay($event, delay)">
+       System Delay
+     </label>
+      <!--System Delay-->
+
+
+  </div><!--Status Group-->
+</div> <!--barGraph-->

@@ -1,0 +1,98 @@
+[
+  {
+    "delayType": "All",
+    "Airlines": [{
+      "iata_code": "UA",
+      "airlines": "United Air Lines Inc",
+      "minutes": 7800000
+    },
+    {
+      "iata_code": "UA",
+      "airlines": "American Air Lines Inc",
+      "minutes": 7200000
+    },
+    {
+      "iata_code": "WN",
+      "airlines": "Southwest Air Lines Inc",
+      "minutes": 12300000
+    },
+    {
+      "iata_code": "DL",
+      "airlines": "Delta Air Lines Inc",
+      "minutes": 6700000
+    }
+    ]
+  },
+  {
+    "delayType": "Extreme Weather Delay",
+    "Airlines": [{
+      "iata_code": "UA",
+      "airlines": "United Air Lines Inc",
+      "minutes": 3250444
+    },
+    {
+      "iata_code": "AA",
+      "airlines": "American Air Lines Inc",
+      "minutes": 467420
+    },
+    {
+      "iata_code": "WN",
+      "airlines": "Southwest Air Lines Inc",
+      "minutes": 545369
+    },
+    {
+      "iata_code": "DL",
+      "airlines": "Delta Air Lines Inc",
+      "minutes": 602901
+    }
+    ]
+  },
+  {
+    "delayType": "Aviation System Delay",
+    "Airlines": [{
+      "iata_code": "UA",
+      "airlines": "United Air Lines Inc",
+      "minutes": 1510372
+    },
+    {
+      "iata_code": "AA",
+      "airlines": "American Air Lines Inc",
+      "minutes": 1760561
+    },
+    {
+      "iata_code": "WN",
+      "airlines": "Southwest Air Lines Inc",
+      "minutes": 1669198
+    },
+    {
+      "iata_code": "DL",
+      "airlines": "Delta Air Lines Inc",
+      "minutes": 1779383
+    }
+    ]
+  },
+  {
+    "delayType": "Air Carrier Delay",
+    "Airlines": [{
+      "iata_code": "UA",
+      "airlines": "United Air Lines Inc",
+      "minutes": 2214213
+    },
+    {
+      "iata_code": "AA",
+      "airlines": "American Air Lines Inc",
+      "minutes": 2753994
+    },
+    {
+      "iata_code": "WN",
+      "airlines": "Southwest Air Lines Inc",
+      "minutes": 3831371
+    },
+    {
+      "iata_code": "DL",
+      "airlines": "Delta Air Lines Inc",
+      "minutes": 2707569
+    }
+    ]
+  }
+]

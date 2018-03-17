@@ -1,0 +1,25 @@
+#doughnut .columns{
+  width: 22%;
+  float:left;
+  position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px
+}
+
+#doughnut{
+  margin-top: 15px;
+  color:#fff;
+  font-family: "Arial";
+}
+
+#doughnut .component-title{
+  padding-bottom:10px;
+  padding-left: 20px;
+}
+
+.airline{
+  text-align: center;
+    padding: 10px 0;
+    font-size: 14px;
+}

@@ -1,0 +1,17 @@
+
+<div id="doughnut" class="row">
+<h5 class="component-title animated slideInRight"> Top Four Airlines in {{vm.delay}}</h5>
+
+<div ng-if="vm.airlines.length > 0" ng-repeat="airline in vm.airlines| orderBy: '-data[0]'" class="columns"  >
+  <canvas id="doughnut" class="chart chart-doughnut"
+    chart-data="airline.data"
+    chart-labels="airline.label"
+    chart-colors="airline.color"
+    chart-options="vm.options"
+    height="40px"
+    width="40px">
+  </canvas>
+  <p class="airline  animated flipInX"> {{airline.label[0]}} <br> {{airline.data[0]|number}} Minutes </p>
+</div>
+
+</div>

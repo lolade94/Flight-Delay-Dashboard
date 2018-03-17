@@ -1,0 +1,2027 @@
+{
+	"routes": [
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "Jan",
+				"delayType": "Extreme Weather Delay"
+			},
+			"coordinates": [
+				[
+					-74.57717,
+					39.45758
+				],
+				[
+					-99.6819,
+					32.41132
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "Jan",
+				"delayType": "Extreme Weather Delay"
+			},
+			"coordinates": [
+				[
+					-73.80298,
+					42.74812
+				],
+				[
+					-92.40034,
+					42.55708
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "Jan",
+				"delayType": "Extreme Weather Delay"
+			},
+			"coordinates": [
+				[
+					-112.00806,
+					33.43417
+				],
+				[
+					-73.77893,
+					40.63975
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "Jan",
+				"delayType": "Extreme Weather Delay"
+			},
+			"coordinates": [
+				[
+					-88.12959,
+					44.48507
+				],
+				[
+					-97.66987,
+					30.19453
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "Jan",
+				"delayType": "Extreme Weather Delay"
+			},
+			"coordinates": [
+				[
+					-81.68786,
+					30.49406
+				],
+				[
+					-118.40807,
+					33.94254
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "Jan",
+				"delayType": "Air Carrier Delay"
+			},
+			"coordinates": [
+				[
+					-108.54286,
+					45.80766
+				],
+				[
+					-94.93372,
+					47.50942
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "Jan",
+				"delayType": "Air Carrier Delay"
+			},
+			"coordinates": [
+				[
+					-75.24114,
+					39.87195
+				],
+				[
+					-81.31603,
+					28.42889
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "Jan",
+				"delayType": "Air Carrier Delay"
+			},
+			"coordinates": [
+				[
+					-78.73217,
+					42.94052
+				],
+				[
+					-86.75355,
+					33.56294
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "Jan",
+				"delayType": "Air Carrier Delay"
+			},
+			"coordinates": [
+				[
+					-86.39398,
+					32.30064
+				],
+				[
+					-122.5975,
+					45.58872
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "Jan",
+				"delayType": "Air Carrier Delay"
+			},
+			"coordinates": [
+				[
+					-117.18966,
+					32.73356
+				],
+				[
+					-111.97777,
+					40.78839
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "Jan",
+				"delayType": "Aviation System Delay"
+			},
+			"coordinates": [
+				[
+					-122.30931,
+					47.44898
+				],
+				[
+					-93.21692,
+					44.88055
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "Jan",
+				"delayType": "Aviation System Delay"
+			},
+			"coordinates": [
+				[
+					-82.53325,
+					27.97547
+				],
+				[
+					-122.5975,
+					45.58872
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "Jan",
+				"delayType": "Aviation System Delay"
+			},
+			"coordinates": [
+				[
+					-121.59077,
+					38.69542
+				],
+				[
+					-98.46978,
+					29.53369
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "Jan",
+				"delayType": "Aviation System Delay"
+			},
+			"coordinates": [
+				[
+					-114.60597,
+					32.65658
+				],
+				[
+					-122.30931,
+					47.44898
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "Feb",
+				"delayType": "Extreme Weather Delay"
+			},
+			"coordinates": [
+				[
+					-99.6819,
+					32.41132
+				],
+				[
+					-74.57717,
+					39.45758
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "Feb",
+				"delayType": "Extreme Weather Delay"
+			},
+			"coordinates": [
+				[
+					-86.75355,
+					33.56294
+				],
+				[
+					-108.54286,
+					45.80766
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "Feb",
+				"delayType": "Extreme Weather Delay"
+			},
+			"coordinates": [
+				[
+					-94.93372,
+					47.50942
+				],
+				[
+					-122.53753,
+					48.79275
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "Feb",
+				"delayType": "Air Carrier Delay"
+			},
+			"coordinates": [
+				[
+					-86.67818,
+					36.12448
+				],
+				[
+					-122.37484,
+					37.619
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "Feb",
+				"delayType": "Air Carrier Delay"
+			},
+			"coordinates": [
+				[
+					-75.24114,
+					39.87195
+				],
+				[
+					-81.31603,
+					28.42889
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "Feb",
+				"delayType": "Air Carrier Delay"
+			},
+			"coordinates": [
+				[
+					-116.22278,
+					43.56444
+				],
+				[
+					-86.75355,
+					33.56294
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "Feb",
+				"delayType": "Aviation System Delay"
+			},
+			"coordinates": [
+				[
+					-94.02069,
+					29.95083
+				],
+				[
+					-93.21692,
+					44.88055
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "Feb",
+				"delayType": "Aviation System Delay"
+			},
+			"coordinates": [
+				[
+					-122.5975,
+					45.58872
+				],
+				[
+					-83.34884,
+					42.21206
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "Feb",
+				"delayType": "Aviation System Delay"
+			},
+			"coordinates": [
+				[
+					-82.89188,
+					39.99799
+				],
+				[
+					-96.85177,
+					32.84711
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "Mar",
+				"delayType": "Extreme Weather Delay"
+			},
+			"coordinates": [
+				[
+					-99.6819,
+					32.41132
+				],
+				[
+					-84.21938,
+					39.90238
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "Mar",
+				"delayType": "Extreme Weather Delay"
+			},
+			"coordinates": [
+				[
+					-90.70917,
+					42.40296
+				],
+				[
+					-108.54286,
+					45.80766
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "Mar",
+				"delayType": "Extreme Weather Delay"
+			},
+			"coordinates": [
+				[
+					-104.667,
+					39.85841
+				],
+				[
+					-77.03772,
+					38.85208
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "Mar",
+				"delayType": "Air Carrier Delay"
+			},
+			"coordinates": [
+				[
+					-86.67818,
+					36.12448
+				],
+				[
+					-122.37484,
+					37.619
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "Mar",
+				"delayType": "Air Carrier Delay"
+			},
+			"coordinates": [
+				[
+					-97.0372,
+					32.89595
+				],
+				[
+					-83.34884,
+					42.21206
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "Mar",
+				"delayType": "Air Carrier Delay"
+			},
+			"coordinates": [
+				[
+					-106.37781,
+					31.80667
+				],
+				[
+					-86.75355,
+					33.56294
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "Mar",
+				"delayType": "Aviation System Delay"
+			},
+			"coordinates": [
+				[
+					-74.16866,
+					40.6925
+				],
+				[
+					-106.37781,
+					31.80667
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "Mar",
+				"delayType": "Aviation System Delay"
+			},
+			"coordinates": [
+				[
+					-78.88,
+					34.99147
+				],
+				[
+					-88.12959,
+					44.48507
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "Mar",
+				"delayType": "Aviation System Delay"
+			},
+			"coordinates": [
+				[
+					-88.12959,
+					44.48507
+				],
+				[
+					-96.85177,
+					32.84711
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "Mar",
+				"delayType": "Aviation System Delay"
+			},
+			"coordinates": [
+				[
+					-120.45758,
+					34.89925
+				],
+				[
+					-122.37484,
+					37.619
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "Apr",
+				"delayType": "Extreme Weather Delay"
+			},
+			"coordinates": [
+				[
+					-98.30861,
+					40.96747
+				],
+				[
+					-111.98275,
+					46.60682
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "Apr",
+				"delayType": "Extreme Weather Delay"
+			},
+			"coordinates": [
+				[
+					-90.70917,
+					42.40296
+				],
+				[
+					-95.27889,
+					29.64542
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "Apr",
+				"delayType": "Extreme Weather Delay"
+			},
+			"coordinates": [
+				[
+					-104.667,
+					39.85841
+				],
+				[
+					-75.60653,
+					39.67872
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "Apr",
+				"delayType": "Air Carrier Delay"
+			},
+			"coordinates": [
+				[
+					-86.29438,
+					39.71733
+				],
+				[
+					-122.37484,
+					37.619
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "Apr",
+				"delayType": "Air Carrier Delay"
+			},
+			"coordinates": [
+				[
+					-73.77893,
+					40.63975
+				],
+				[
+					-83.34884,
+					42.21206
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "Apr",
+				"delayType": "Air Carrier Delay"
+			},
+			"coordinates": [
+				[
+					-106.37781,
+					31.80667
+				],
+				[
+					-118.40807,
+					33.94254
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "Apr",
+				"delayType": "Aviation System Delay"
+			},
+			"coordinates": [
+				[
+					-118.15161,
+					33.81772
+				],
+				[
+					-106.37781,
+					31.80667
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "Apr",
+				"delayType": "Aviation System Delay"
+			},
+			"coordinates": [
+				[
+					-81.31603,
+					28.42889
+				],
+				[
+					-88.12959,
+					44.48507
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "Apr",
+				"delayType": "Aviation System Delay"
+			},
+			"coordinates": [
+				[
+					-88.12959,
+					44.48507
+				],
+				[
+					-87.75242,
+					41.78598
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "May",
+				"delayType": "Extreme Weather Delay"
+			},
+			"coordinates": [
+				[
+					-76.7634,
+					40.1935
+				],
+				[
+					-87.75242,
+					41.78598
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "May",
+				"delayType": "Extreme Weather Delay"
+			},
+			"coordinates": [
+				[
+					-98.23861,
+					26.17583
+				],
+				[
+					-108.54286,
+					45.80766
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "May",
+				"delayType": "Extreme Weather Delay"
+			},
+			"coordinates": [
+				[
+					-73.80298,
+					42.74812
+				],
+				[
+					-92.40034,
+					42.55708
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "May",
+				"delayType": "Extreme Weather Delay"
+			},
+			"coordinates": [
+				[
+					-99.6819,
+					32.41132
+				],
+				[
+					-74.57717,
+					39.45758
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "May",
+				"delayType": "Extreme Weather Delay"
+			},
+			"coordinates": [
+				[
+					-121.92901,
+					37.36186
+				],
+				[
+					-111.98275,
+					46.60682
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "May",
+				"delayType": "Extreme Weather Delay"
+			},
+			"coordinates": [
+				[
+					-122.8735,
+					42.37423
+				],
+				[
+					-77.03772,
+					38.85208
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "May",
+				"delayType": "Air Carrier Delay"
+			},
+			"coordinates": [
+				[
+					-86.67818,
+					36.12448
+				],
+				[
+					-96.67083,
+					39.14097
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "May",
+				"delayType": "Air Carrier Delay"
+			},
+			"coordinates": [
+				[
+					-93.21692,
+					44.88055
+				],
+				[
+					-83.34884,
+					42.21206
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "May",
+				"delayType": "Air Carrier Delay"
+			},
+			"coordinates": [
+				[
+					-106.37781,
+					31.80667
+				],
+				[
+					-86.75355,
+					33.56294
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "May",
+				"delayType": "Aviation System Delay"
+			},
+			"coordinates": [
+				[
+					-90.25803,
+					29.99339
+				],
+				[
+					-106.37781,
+					31.80667
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "May",
+				"delayType": "Aviation System Delay"
+			},
+			"coordinates": [
+				[
+					-78.88,
+					34.99147
+				],
+				[
+					-88.12959,
+					44.48507
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "May",
+				"delayType": "Aviation System Delay"
+			},
+			"coordinates": [
+				[
+					-97.60073,
+					35.39309
+				],
+				[
+					-111.98275,
+					46.60682
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "Jun",
+				"delayType": "Extreme Weather Delay"
+			},
+			"coordinates": [
+				[
+					-97.60073,
+					35.39309
+				],
+				[
+					-111.98275,
+					46.60682
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "Jun",
+				"delayType": "Extreme Weather Delay"
+			},
+			"coordinates": [
+				[
+					-111.98275,
+					46.60682
+				],
+				[
+					-95.27889,
+					29.64542
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "Jun",
+				"delayType": "Extreme Weather Delay"
+			},
+			"coordinates": [
+				[
+					-104.667,
+					39.85841
+				],
+				[
+					-122.5975,
+					45.58872
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "Jun",
+				"delayType": "Air Carrier Delay"
+			},
+			"coordinates": [
+				[
+					-86.29438,
+					39.71733
+				],
+				[
+					-76.49299,
+					37.1319
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "Jun",
+				"delayType": "Air Carrier Delay"
+			},
+			"coordinates": [
+				[
+					-75.24114,
+					39.87195
+				],
+				[
+					-83.34884,
+					42.21206
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "Jun",
+				"delayType": "Air Carrier Delay"
+			},
+			"coordinates": [
+				[
+					-112.00806,
+					33.43417
+				],
+				[
+					-118.40807,
+					33.94254
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "Jun",
+				"delayType": "Aviation System Delay"
+			},
+			"coordinates": [
+				[
+					-118.15161,
+					33.81772
+				],
+				[
+					-87.75242,
+					41.78598
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "Jun",
+				"delayType": "Aviation System Delay"
+			},
+			"coordinates": [
+				[
+					-89.69331,
+					40.66424
+				],
+				[
+					-88.12959,
+					44.48507
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "Jun",
+				"delayType": "Aviation System Delay"
+			},
+			"coordinates": [
+				[
+					-112.59586,
+					42.91131
+				],
+				[
+					-78.78747,
+					35.87764
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "Jul",
+				"delayType": "Extreme Weather Delay"
+			},
+			"coordinates": [
+				[
+					-98.46978,
+					29.5312
+				],
+				[
+					-111.98275,
+					46.60682
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "Jul",
+				"delayType": "Extreme Weather Delay"
+			},
+			"coordinates": [
+				[
+					-81.20214,
+					32.12758
+				],
+				[
+					-95.27889,
+					29.64542
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "Jul",
+				"delayType": "Extreme Weather Delay"
+			},
+			"coordinates": [
+				[
+					-119.84037,
+					34.42621
+				],
+				[
+					-122.5975,
+					45.58872
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "Jul",
+				"delayType": "Air Carrier Delay"
+			},
+			"coordinates": [
+				[
+					-85.736,
+					38.17439
+				],
+				[
+					-76.49299,
+					37.1319
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "Jul",
+				"delayType": "Air Carrier Delay"
+			},
+			"coordinates": [
+				[
+					-122.30931,
+					47.44898
+				],
+				[
+					-83.34884,
+					42.21206
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "Jul",
+				"delayType": "Air Carrier Delay"
+			},
+			"coordinates": [
+				[
+					-83.34884,
+					42.21206
+				],
+				[
+					-118.40807,
+					33.94254
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "Jul",
+				"delayType": "Aviation System Delay"
+			},
+			"coordinates": [
+				[
+					-95.27889,
+					29.64542
+				],
+				[
+					-122.37484,
+					37.619
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "Jul",
+				"delayType": "Aviation System Delay"
+			},
+			"coordinates": [
+				[
+					-121.92901,
+					37.36186
+				],
+				[
+					-88.12959,
+					44.48507
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "Jul",
+				"delayType": "Aviation System Delay"
+			},
+			"coordinates": [
+				[
+					-85.736,
+					38.17439
+				],
+				[
+					-122.5975,
+					45.58872
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "Jul",
+				"delayType": "Aviation System Delay"
+			},
+			"coordinates": [
+				[
+					-88.12959,
+					44.48507
+				],
+				[
+					-78.78747,
+					35.87764
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "Aug",
+				"delayType": "Extreme Weather Delay"
+			},
+			"coordinates": [
+				[
+					-121.92901,
+					37.36186
+				],
+				[
+					-111.98275,
+					46.60682
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "Aug",
+				"delayType": "Extreme Weather Delay"
+			},
+			"coordinates": [
+				[
+					-121.59077,
+					38.69542
+				],
+				[
+					-95.27889,
+					29.64542
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "Aug",
+				"delayType": "Extreme Weather Delay"
+			},
+			"coordinates": [
+				[
+					-95.27889,
+					29.64542
+				],
+				[
+					-122.5975,
+					45.58872
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "Aug",
+				"delayType": "Air Carrier Delay"
+			},
+			"coordinates": [
+				[
+					-85.736,
+					38.17439
+				],
+				[
+					-111.98275,
+					46.60682
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "Aug",
+				"delayType": "Air Carrier Delay"
+			},
+			"coordinates": [
+				[
+					-122.30931,
+					47.44898
+				],
+				[
+					-90.35999,
+					38.74769
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "Aug",
+				"delayType": "Air Carrier Delay"
+			},
+			"coordinates": [
+				[
+					-82.53325,
+					27.97547
+				],
+				[
+					-118.40807,
+					33.94254
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "Aug",
+				"delayType": "Aviation System Delay"
+			},
+			"coordinates": [
+				[
+					-120.45758,
+					34.89925
+				],
+				[
+					-89.46745,
+					45.63119
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "Aug",
+				"delayType": "Aviation System Delay"
+			},
+			"coordinates": [
+				[
+					-82.40742,
+					36.47521
+				],
+				[
+					-88.12959,
+					44.48507
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "Aug",
+				"delayType": "Aviation System Delay"
+			},
+			"coordinates": [
+				[
+					-88.12959,
+					44.48507
+				],
+				[
+					-110.94103,
+					32.11608
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "Aug",
+				"delayType": "Aviation System Delay"
+			},
+			"coordinates": [
+				[
+					-82.53325,
+					27.97547
+				],
+				[
+					-118.40807,
+					33.94254
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "Sept",
+				"delayType": "Extreme Weather Delay"
+			},
+			"coordinates": [
+				[
+					-80.23287,
+					40.49147
+				],
+				[
+					-70.30875,
+					43.64617
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "Sept",
+				"delayType": "Extreme Weather Delay"
+			},
+			"coordinates": [
+				[
+					-78.78747,
+					35.87764
+				],
+				[
+					-95.27889,
+					29.64542
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "Sept",
+				"delayType": "Extreme Weather Delay"
+			},
+			"coordinates": [
+				[
+					-89.46745,
+					45.63119
+				],
+				[
+					-122.5975,
+					45.58872
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "Sept",
+				"delayType": "Air Carrier Delay"
+			},
+			"coordinates": [
+				[
+					-90.35999,
+					38.74769
+				],
+				[
+					-117.18966,
+					32.73356
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "Sept",
+				"delayType": "Air Carrier Delay"
+			},
+			"coordinates": [
+				[
+					-98.46978,
+					29.5312
+				],
+				[
+					-90.35999,
+					38.74769
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "Sept",
+				"delayType": "Air Carrier Delay"
+			},
+			"coordinates": [
+				[
+					-82.53325,
+					27.97547
+				],
+				[
+					-118.40807,
+					33.94254
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "Sept",
+				"delayType": "Aviation System Delay"
+			},
+			"coordinates": [
+				[
+					-77.03772,
+					38.85208
+				],
+				[
+					-122.37484,
+					37.619
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "Sept",
+				"delayType": "Aviation System Delay"
+			},
+			"coordinates": [
+				[
+					-119.84037,
+					34.42621
+				],
+				[
+					-88.12959,
+					44.48507
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "Sept",
+				"delayType": "Aviation System Delay"
+			},
+			"coordinates": [
+				[
+					-85.736,
+					38.17439
+				],
+				[
+					-122.30931,
+					47.44898
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "Oct",
+				"delayType": "Extreme Weather Delay"
+			},
+			"coordinates": [
+				[
+					-80.23287,
+					40.49147
+				],
+				[
+					-122.30931,
+					47.44898
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "Oct",
+				"delayType": "Extreme Weather Delay"
+			},
+			"coordinates": [
+				[
+					-121.92901,
+					37.36186
+				],
+				[
+					-95.27889,
+					29.64542
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "Oct",
+				"delayType": "Extreme Weather Delay"
+			},
+			"coordinates": [
+				[
+					-111.97777,
+					40.78839
+				],
+				[
+					-122.5975,
+					45.58872
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "Oct",
+				"delayType": "Air Carrier Delay"
+			},
+			"coordinates": [
+				[
+					-90.35999,
+					38.74769
+				],
+				[
+					-117.18966,
+					32.73356
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "Oct",
+				"delayType": "Air Carrier Delay"
+			},
+			"coordinates": [
+				[
+					-98.46978,
+					29.5312
+				],
+				[
+					-90.35999,
+					38.74769
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "Oct",
+				"delayType": "Air Carrier Delay"
+			},
+			"coordinates": [
+				[
+					-82.53325,
+					27.97547
+				],
+				[
+					-93.99102,
+					33.45371
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "Oct",
+				"delayType": "Aviation System Delay"
+			},
+			"coordinates": [
+				[
+					-120.45758,
+					34.89925
+				],
+				[
+					-83.99286,
+					35.81249
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "Oct",
+				"delayType": "Aviation System Delay"
+			},
+			"coordinates": [
+				[
+					-119.84037,
+					34.42621
+				],
+				[
+					-88.12959,
+					44.48507
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "Oct",
+				"delayType": "Aviation System Delay"
+			},
+			"coordinates": [
+				[
+					-114.60597,
+					32.65658
+				],
+				[
+					-122.30931,
+					47.44898
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "Nov",
+				"delayType": "Extreme Weather Delay"
+			},
+			"coordinates": [
+				[
+					-86.5254,
+					30.48325
+				],
+				[
+					-98.46978,
+					29.5312
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "Nov",
+				"delayType": "Extreme Weather Delay"
+			},
+			"coordinates": [
+				[
+					-121.92901,
+					37.36186
+				],
+				[
+					-81.20214,
+					32.12758
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "Nov",
+				"delayType": "Extreme Weather Delay"
+			},
+			"coordinates": [
+				[
+					-111.97777,
+					40.78839
+				],
+				[
+					-85.736,
+					38.17439
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "Nov",
+				"delayType": "Air Carrier Delay"
+			},
+			"coordinates": [
+				[
+					-90.35999,
+					38.74769
+				],
+				[
+					-118.40807,
+					33.94254
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "Nov",
+				"delayType": "Air Carrier Delay"
+			},
+			"coordinates": [
+				[
+					-98.46978,
+					29.5312
+				],
+				[
+					-73.87261,
+					40.77724
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "Nov",
+				"delayType": "Air Carrier Delay"
+			},
+			"coordinates": [
+				[
+					-118.15161,
+					33.81772
+				],
+				[
+					-93.99102,
+					33.45371
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "Nov",
+				"delayType": "Aviation System Delay"
+			},
+			"coordinates": [
+				[
+					-94.71391,
+					39.29761
+				],
+				[
+					-83.99286,
+					35.81249
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "Nov",
+				"delayType": "Aviation System Delay"
+			},
+			"coordinates": [
+				[
+					-119.84037,
+					34.42621
+				],
+				[
+					-76.7634,
+					40.1935
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "Nov",
+				"delayType": "Aviation System Delay"
+			},
+			"coordinates": [
+				[
+					-87.75242,
+					41.78598
+				],
+				[
+					-122.30931,
+					47.44898
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "Dec",
+				"delayType": "Extreme Weather Delay"
+			},
+			"coordinates": [
+				[
+					-76.7634,
+					40.1935
+				],
+				[
+					-98.46978,
+					29.5312
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "Dec",
+				"delayType": "Extreme Weather Delay"
+			},
+			"coordinates": [
+				[
+					-87.75242,
+					41.78598
+				],
+				[
+					-81.20214,
+					32.12758
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "Dec",
+				"delayType": "Extreme Weather Delay"
+			},
+			"coordinates": [
+				[
+					-111.97777,
+					40.78839
+				],
+				[
+					-89.97667,
+					35.04242
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "Dec",
+				"delayType": "Air Carrier Delay"
+			},
+			"coordinates": [
+				[
+					-98.23861,
+					26.17583
+				],
+				[
+					-118.40807,
+					33.94254
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "Dec",
+				"delayType": "Air Carrier Delay"
+			},
+			"coordinates": [
+				[
+					-122.8735,
+					42.37423
+				],
+				[
+					-73.87261,
+					40.77724
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "Dec",
+				"delayType": "Air Carrier Delay"
+			},
+			"coordinates": [
+				[
+					-118.15161,
+					33.81772
+				],
+				[
+					-86.39398,
+					32.30064
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "Dec",
+				"delayType": "Aviation System Delay"
+			},
+			"coordinates": [
+				[
+					-96.67083,
+					39.14097
+				],
+				[
+					-83.99286,
+					35.81249
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "Dec",
+				"delayType": "Aviation System Delay"
+			},
+			"coordinates": [
+				[
+					-119.84037,
+					34.42621
+				],
+				[
+					-76.7634,
+					40.1935
+				]
+			]
+		},
+		{
+			"type": "LineString",
+			"properties": {
+				"month": "Dec",
+				"delayType": "Aviation System Delay"
+			},
+			"coordinates": [
+				[
+					-93.21692,
+					44.88055
+				],
+				[
+					-122.30931,
+					47.44898
+				]
+			]
+		}
+	]
+}

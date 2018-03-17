@@ -1,0 +1,31 @@
+<div id="mapDashboard" class="container">
+
+  <div class="row">
+
+    <div class="col-xs-6">
+      <!--Map Interactive features timeline slider, svg animations,  and d3.js topographic U.S map -->
+      <div class="row">
+        <map-interactive delay="vm.delayStatus" month="vm.monthReport" change-month="vm.selectMonth(month)" />
+      </div>
+    </div>
+    <!--Map Interactive -->
+
+    <div class="col-xs-6">
+
+      <!--Bar Graph features pill tabs for filtering, and  a d3.js bar graph-->
+      <div class="row">
+        <bar-graph delay="vm.delayStatus" month="vm.monthReport" change-delay="vm.selectDelay($event)"/>
+      </div>
+      <!--Bar-Graph-->
+
+      <!--Doughnut Chart -->
+      <div class="row">
+        <doughnut-chart delay="vm.delayStatus" change-delay="vm.selectDelay($event)"/>
+      </div>
+    </div>
+      <!--Doughnut Chart -->
+
+
+  </div> <!--row-->
+
+</div><!--dasboard-->
